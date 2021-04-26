@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: rgb(43, 226, 180);
+}
+
+.card-container {
+  background-color: coral;
+  position: relative;
+  width: 100%;
+  padding-bottom: 62.5%;
+}
